@@ -9,7 +9,7 @@
         }
 
         // Initial setup
-        var subdomain = "yy218djhv8g9";
+        var subdomain = "r0sgua4xwhxj";
         var cw_token = 'f006decf55e10088bc354cd8f1e3e4e4'; //Lwin Koko test
         var room_id = '359031094';
         // var cw_token = '0e9084097d02ae51dacf58ac9a9e0e85'; 
