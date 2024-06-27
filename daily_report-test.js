@@ -32,7 +32,7 @@
         }
         
         
-        report += "[info][title]【HELLO-1 removed 業務日報　" + event.record.日付.value + "　" + event.record.作成者.value.name + "】[/title]";
+        report += "[info][title]【業務日報　" + event.record.日付.value + "　" + event.record.作成者.value.name + "】[/title]";
         for (var i = 0; i < event.record.業務内容.value.length; i++) {
             report += "■" + event.record.業務内容.value[i].value.業務種別.value;
             report += "　" + event.record.業務内容.value[i].value.稼働時間.value + "h";
